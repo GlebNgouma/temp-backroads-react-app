@@ -1,6 +1,6 @@
-Application # Routes secondaires
+Application # Backroads App
 
-[Application de travail déployée](https://backroads-react-app.netlify.app/)
+[Application de travail déployée](https://backroads-react-project-app.netlify.app/)
 
 - backroads-html-projet html/css/javascript de travail (contient des actifs)
 - final (code source complet) - application react fonctionnelle
